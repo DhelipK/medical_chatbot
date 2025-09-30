@@ -4,7 +4,7 @@ mkdir -p research
 
 # Creating files
 touch .env
-touch requirements.py
+touch requirements.txt
 touch setup.py
 touch app.py
 touch src/__init__.py
